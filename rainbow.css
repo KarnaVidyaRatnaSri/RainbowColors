@@ -1,0 +1,10 @@
+div{
+    text-align:center;
+}
+body{
+    border-style:solid;
+    padding:200px;
+    margin:200px;
+    margin-left:500px;
+    margin-right:500px;
+}
